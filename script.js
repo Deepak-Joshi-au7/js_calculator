@@ -23,3 +23,8 @@ equalBtn.addEventListener('click',function(){
 clearBtn.addEventListener('click',function(){
     screen.value = '';  
 });
+
+
+
+
+
